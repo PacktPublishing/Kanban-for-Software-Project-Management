@@ -1,2 +1,2 @@
-# Agile-Kanban-Kanban-for-Software-Development-Teams
-Agile Kanban: Kanban for Software Development Teams, by Packt Publishing
+# Kanban for Software Project Management
+Kanban for Software Project Management, by Packt Publishing
